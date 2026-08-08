@@ -54,14 +54,7 @@ Saya suka membangun **tools CLI yang cepat**, **infra ringan**, dan hal-hal berk
 
 ### 💬 `focus_areas`
 ```yaml
-languages:  [rust, go, typescript, python, c]
-runtime:    [node, deno, bun]
-frameworks: [axum, actix, tokio, nextjs, fastapi]
-datastore:  [postgres, redis, sqlite, surrealdb]
-infra:      [docker, k8s, terraform, nixos]
-editor:     [neovim, helix, zed]
-shell:      [zsh + tmux + starship]
-platform:   [arch, nixos, macos]
+languages:  [rust, go, typescript, python, c, django, vue, laravel]
 ```
 
 </td>
