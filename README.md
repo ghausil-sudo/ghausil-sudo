@@ -75,15 +75,15 @@ languages:  [rust, go, typescript, python, c, django, vue, laravel]
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="36"/><br><sub>typescript</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="36"/><br><sub>python</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="36"/><br><sub>c</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=django" width="36"/><br><sub>bun</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vue" width="36"/><br><sub>deno</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=django" width="36"/><br><sub>Django</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vue" width="36"/><br><sub>Vue</sub></td>
   </tr>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="36"/><br><sub>react</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="36"/><br><sub>next</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=laravel" width="36"/><br><sub>docker</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="36"/><br><sub>k8s</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="36"/><br><sub>terraform</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=laravel" width="36"/><br><sub>Laravel</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="36"/><br><sub>Html</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="36"/><br><sub>Css</sub></td>
   </tr>
 </table>
 
