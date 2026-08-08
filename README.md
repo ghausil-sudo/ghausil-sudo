@@ -1,5 +1,3 @@
-
-👋 whoami
  $ whoami> ghausil — systems engineer & open-source tinkerer $ uname -a> linux 6.x · arch/nixos · zsh + tmux · neovim $ uptime> 23h 59m / day · shipping...
 Saya suka membangun tools CLI yang cepat, infra ringan, dan hal-hal berkaitan dengan systems programming. Saat ini lagi jatuh cinta sama Rust dan distributed systems.
 
@@ -24,7 +22,6 @@ Saya suka membangun tools CLI yang cepat, infra ringan, dan hal-hal berkaitan de
 <!-- ════════ TECH STACK ════════ -->
 <div align="center">
 
-🧰 tech_stack.json
 yaml
 
 languages:  [rust, go, typescript, python, c]
