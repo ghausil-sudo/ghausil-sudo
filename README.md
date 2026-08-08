@@ -75,26 +75,15 @@ languages:  [rust, go, typescript, python, c, django, vue, laravel]
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="36"/><br><sub>typescript</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="36"/><br><sub>python</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="36"/><br><sub>c</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bun" width="36"/><br><sub>bun</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=deno" width="36"/><br><sub>deno</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=django" width="36"/><br><sub>bun</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vue" width="36"/><br><sub>deno</sub></td>
   </tr>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="36"/><br><sub>react</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="36"/><br><sub>next</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="36"/><br><sub>docker</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="36"/><br><sub>k8s</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=terraform" width="36"/><br><sub>terraform</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="36"/><br><sub>postgres</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="36"/><br><sub>redis</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="36"/><br><sub>linux</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=neovim" width="36"/><br><sub>neovim</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tmux" width="36"/><br><sub>tmux</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="36"/><br><sub>git</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="36"/><br><sub>actions</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cloudflare" width="36"/><br><sub>cf</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="36"/><br><sub>aws</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=laravel" width="36"/><br><sub>docker</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="36"/><br><sub>k8s</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="36"/><br><sub>terraform</sub></td>
   </tr>
 </table>
 
