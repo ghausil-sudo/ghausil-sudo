@@ -1,113 +1,179 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Ghausil%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20crafting%20things%20with%20Laravel%20%26%20Django&descAlignY=55&descSize=18" width="100%"/>
+👋 whoami
+ $ whoami> ghausil — systems engineer & open-source tinkerer $ uname -a> linux 6.x · arch/nixos · zsh + tmux · neovim $ uptime> 23h 59m / day · shipping...
+Saya suka membangun tools CLI yang cepat, infra ringan, dan hal-hal berkaitan dengan systems programming. Saat ini lagi jatuh cinta sama Rust dan distributed systems.
+
+🔭 sedang kerja di infrastruktur internal & tooling
+🌱 lagi belajar Rust · Distributed Systems · WASM
+💬 tanya soal Linux, CLI, automation, DevEx
+⚡ fun fact: lebih produktif jam 2 pagi ☕
+📫 reach me: hi@ghausil.dev
+<sub>💡 repo ini di-auto-update tiap hari pakai GitHub Actions.</sub>
+
+</td>
+<td width="42%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ghausil-sudo&show=reviews,discussions_started,discussions_answered,prs_merged,prs&show_icons=true&hide_border=true&theme=react&bg_color=0d1117&title_color=22d3ee&icon_color=ec4899&text_color=c9d1d9&ring_color=22d3ee" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%92%BB;Laravel+%2B+Django+Enthusiast+%F0%9F%9A%80;Always+Learning+%2C+Always+Building+%F0%9F%8C%B1" alt="Typing SVG" />
+<!-- ════════ TECH STACK ════════ -->
+<div align="center">
 
-<br/><br/>
+🧰 tech_stack.json
+yaml
 
-<a href="https://www.instagram.com/ghausil13/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://github.com/ghausil-sudo" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=ghausil-sudo&label=Profile%20Views&color=a78bfa&style=for-the-badge" />
+languages:  [rust, go, typescript, python, c]
+runtime:    [node, deno, bun]
+frameworks: [axum, actix, tokio, nextjs, fastapi]
+datastore:  [postgres, redis, sqlite, surrealdb]
+infra:      [docker, k8s, terraform, nixos]
+editor:     [neovim, helix, zed]
+shell:      [zsh + tmux + starship]
+platform:   [arch, nixos, macos]
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=rust" width="36"/><br><sub>rust</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=go" width="36"/><br><sub>go</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="36"/><br><sub>typescript</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="36"/><br><sub>python</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="36"/><br><sub>c</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=bun" width="36"/><br><sub>bun</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=deno" width="36"/><br><sub>deno</sub></td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="36"/><br><sub>react</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="36"/><br><sub>next</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="36"/><br><sub>docker</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="36"/><br><sub>k8s</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=terraform" width="36"/><br><sub>terraform</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="36"/><br><sub>postgres</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="36"/><br><sub>redis</sub></td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="36"/><br><sub>linux</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=neovim" width="36"/><br><sub>neovim</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tmux" width="36"/><br><sub>tmux</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="36"/><br><sub>git</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="36"/><br><sub>actions</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=cloudflare" width="36"/><br><sub>cf</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="36"/><br><sub>aws</sub></td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-## 🧑‍💻 About Me
+<!-- ════════ STATS TRIO ════════ -->
+<div align="center">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ghausil-sudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" width="42%"/>
+📊 git log --author=ghausil
+<table>
+<tr>
+<td width="33%" align="center"><img src="https://github-readme-stats.vercel.app/api?username=ghausil-sudo&hide_border=true&show_icons=true&theme=react&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=ec4899" width="100%"/></td>
+<td width="33%" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=ghausil-sudo&hide_border=true&theme=react&background=0D1117&ring=22D3EE&fire=EC4899&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" width="100%"/></td>
+<td width="33%" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghausil-sudo&layout=compact&hide_border=true&theme=react&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" width="100%"/></td>
+</tr>
+</table>
 
-```yaml
-name: Ghausil
-role: Web Developer
-currently_building:
-  - Library_api  → Laravel & Blade
-  - EduFlow      → Django, Sistem Informasi Kursus Online
-learning: "Terus mengasah skill full-stack development"
-fun_fact: "Percaya bahwa kode yang rapi = hidup yang lebih tenang 😄"
+</div>
+
+<br/>
+
+<!-- ════════ ACTIVITY GRAPH ════════ -->
+<div align="center">
+
+📈 git log --graph --oneline --all
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghausil-sudo&theme=react-dark&hide_border=true&bg_color=0d1117&color=22d3ee&line=ec4899&point=22d3ee&area=true&area_color=8b5cf6" width="95%"/>
+
+</div>
+
+<br/>
+
+<!-- ════════ TROPHIES ════════ -->
+<div align="center">
+
+🏆 cat achievements.json
+<img src="https://github-profile-trophy.vercel.app/?username=ghausil-sudo&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=12"/>
+
+</div>
+
+<br/>
+
+<!-- ════════ NOW PLAYING / CURRENTLY ════════ -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🌱 currently_learning
+diff
+
++  rust · axum · tokio
++  distributed systems · raft consensus
++  webassembly · wasm runtime internals
++  linux kernel · ebpf · observability
+-  waiting for: tail of rust async book 🥲
+</td>
+<td width="50%" valign="top">
+
+🎧 now_listening
+<img src="https://novatorem.vercel.app/api/spotify?id=your-spotify-id&color=22D3EE&background_color=0d1117&icon_color=EC4899" width="100%"/>
+
+<sub>🎵 kalau kartu di atas kosong, berarti lagi tidak mendengarkan spotify — coba lagi nanti.</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ════════ PINNED PROJECTS ════════ -->
+<div align="center">
+
+🚀 ls ~/projects
+<a href="https://github.com/ghausil-sudo">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ghausil-sudo&repo=your-repo-1&theme=react&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=ec4899&hide_border=true" />
+</a>
+<a href="https://github.com/ghausil-sudo">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ghausil-sudo&repo=your-repo-2&theme=react&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=ec4899&hide_border=true" />
+</a>
+<a href="https://github.com/ghausil-sudo">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ghausil-sudo&repo=your-repo-3&theme=react&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=ec4899&hide_border=true" />
+</a>
+<a href="https://github.com/ghausil-sudo">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ghausil-sudo&repo=your-repo-4&theme=react&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=ec4899&hide_border=true" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ════════ DEV QUOTE ════════ -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&bg_color=0d1117&title_color=22d3ee&quote_color=c9d1d9&accent_color=ec4899&border_color=22d3ee" width="80%"/>
+
+</div>
+
+<br/>
+
+<!-- ════════ FOOTER ════════ -->
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ghausil-sudo&label=PROFILE+VIEWS&color=22d3ee&style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+<sub>last commit:</sub> Last Commit
+
+<sub>powered by ☕ + 🦀 + ✨ — designed & built by ghausil · MIT</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:8b5cf6,100:0ea5e9&height=120&section=footer&fontSize=0"/>
+
+</div>
 ```
-
-- 🔭 Sedang aktif mengembangkan **Library_api** & **EduFlow**
-- 🌱 Terus belajar hal baru di dunia web development
-- ⚡ Suka membangun sistem yang simpel tapi fungsional
-- 📫 Paling gampang dihubungi lewat Instagram di atas
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghausil-sudo&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghausil-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="35%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ghausil-sudo&theme=discord&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/ghausil-sudo/Library_api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghausil-sudo&repo=Library_api&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/ghausil-sudo/EduFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghausil-sudo&repo=EduFlow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
-</a>
-
-</div>
-
-<details>
-<summary>📂 Detail Proyek</summary>
-<br/>
-
-| Project | Deskripsi | Stack |
-|---|---|---|
-| [Library_api](https://github.com/ghausil-sudo/Library_api) | Sistem/API untuk manajemen perpustakaan | Laravel, Blade |
-| [EduFlow](https://github.com/ghausil-sudo/EduFlow) | Sistem Informasi Kursus Online | Django, Python |
-
-</details>
-
----
-
-<div align="center">
-
-### 💭 "Code is like humor. When you have to explain it, it's bad."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
