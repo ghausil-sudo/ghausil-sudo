@@ -70,11 +70,7 @@ fun_fact: "Percaya bahwa kode yang rapi = hidup yang lebih tenang 😄"
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghausil-sudo&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghausil-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="35%"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghausil-sudo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" width="95%"/>
-
-<br/>
+<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=ghausil-sudo&theme=discord&no-frame=true&row=1&column=6&margin-w=8" />
 
@@ -105,16 +101,6 @@ fun_fact: "Percaya bahwa kode yang rapi = hidup yang lebih tenang 😄"
 | [EduFlow](https://github.com/ghausil-sudo/EduFlow) | Sistem Informasi Kursus Online | Django, Python |
 
 </details>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ghausil-sudo/ghausil-sudo/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-<sub>*Snake animation aktif otomatis setelah kamu setup GitHub Action-nya (lihat catatan di bawah)*</sub>
-</div>
 
 ---
 
